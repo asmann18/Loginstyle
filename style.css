@@ -1,0 +1,67 @@
+
+label {
+  display: inline-block;
+  width: 150px;
+}
+.form {
+  border: 2px solid yellowgreen;
+  border-radius: 16px;
+  padding: 100px;
+  height: 300px;
+  margin: 50px;
+
+  background-color: white;
+}
+body {
+  background-image: url(./Zz1kNmFkYmFmNzhlNGIxMWViYTU1ZDFmYjg0ZWI5MTc4Zg==.jpeg);
+}
+.button1 {
+  width: 100px;
+  height: 40px;
+  background-color: aquamarine;
+  border-radius: 30px;
+  margin: 50px;
+  margin-left:390px ;
+}
+.row1 {
+  display: inline-block;
+}
+.email {
+  margin: 10px;
+}
+.name,
+.email {
+  width: 230px;
+  height: 50px;
+}
+.website{
+  margin-bottom: 30px;
+  margin-top: 30px;
+
+}
+.url{
+    width: 740px;
+  height: 60px;
+
+}
+.message{
+      width: 740px;
+  height: 100px;
+
+}
+.header{
+  margin-left: 460px;
+  margin-top: 50px;
+}
+input{
+  border-radius: 10px;
+}
+.footer{
+  margin-left: 490px;
+  margin-bottom: 50px;
+}
+.emaillabel{
+  margin-left: 20px;
+  width: 130px;
+  margin-right: 10px;
+}
